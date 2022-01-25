@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Sign_Collector_Reactjs/static/css/main.0dcc6019.css",
+    "main.js": "/Sign_Collector_Reactjs/static/js/main.658683f5.js",
+    "index.html": "/Sign_Collector_Reactjs/index.html",
+    "main.0dcc6019.css.map": "/Sign_Collector_Reactjs/static/css/main.0dcc6019.css.map",
+    "main.658683f5.js.map": "/Sign_Collector_Reactjs/static/js/main.658683f5.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0dcc6019.css",
+    "static/js/main.658683f5.js"
+  ]
+}
